@@ -8,7 +8,7 @@
 [![](https://img.shields.io/badge/-Flask-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=a2db9a)](https://github.com/IIWesleyII?tab=repositories)
 [![](https://img.shields.io/badge/-React-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=a2db9a)](https://github.com/IIWesleyII?tab=repositories)
 ### Codewars profile:
-[![](https://www.codewars.com/users/IIwesleyII/badges/large)](https://www.codewars.com/users/IIwesleyII)
+[![](https://www.codewars.com/users/IIWesleyII/badges/large)](https://www.codewars.com/users/IIWesleyII)
 
 <!--
 **IIWesleyII/IIWesleyII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
