@@ -1,4 +1,4 @@
-# <p align="center"> :palm_tree::palm_tree:Wesley:palm_tree::palm_tree: </p>
+# <p align="center"> :palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree: </p>
 
 
 ### Codewars profile:
