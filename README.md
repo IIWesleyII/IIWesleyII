@@ -1,10 +1,5 @@
-# <p align="center"> </p>
+ [![](https://www.codewars.com/users/IIWesleyII/badges/large)](https://www.codewars.com/users/IIWesleyII)
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
-
-### Codewars profile:
-[![](https://www.codewars.com/users/IIWesleyII/badges/large)](https://www.codewars.com/users/IIWesleyII)
 
 <!--
 **IIWesleyII/IIWesleyII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
