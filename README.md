@@ -1,5 +1,7 @@
-# <p align="center"> :palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree::palm_tree: </p>
+# <p align="center"> </p>
 
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 
 ### Codewars profile:
 [![](https://www.codewars.com/users/IIWesleyII/badges/large)](https://www.codewars.com/users/IIWesleyII)
@@ -18,4 +20,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
