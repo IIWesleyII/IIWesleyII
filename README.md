@@ -1,5 +1,5 @@
 # 👋 Hi! I'm Wesley
-### I'm a software engineer specializing in back-end development and I love to build stuff.
+### I'm a software engineer specializing in back-end development.
 
 
  #### Codewars Profile:
