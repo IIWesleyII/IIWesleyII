@@ -1,5 +1,5 @@
 # 👋 Hi! I'm Wesley
-### I'm a software engineer with experience in back-end development, and data engineering in python.
+### I'm a software engineer specializing in back-end development.
 
 
  #### Codewars Profile:
